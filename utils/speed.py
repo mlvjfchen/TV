@@ -1,4 +1,4 @@
-pipenv run buildfrom aiohttp import ClientSession, TCPConnector
+from aiohttp import ClientSession, TCPConnector
 from time import time
 import asyncio
 import re

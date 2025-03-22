@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-22 05:24:07" tvg-logo="https://live.fanmingming.com/tv/2025-03-22 05:24:07.png" group-title="更新时间",2025-03-22 05:24:07
+#EXTINF:-1 tvg-name="2025-03-22 17:25:22" tvg-logo="https://live.fanmingming.com/tv/2025-03-22 17:25:22.png" group-title="更新时间",2025-03-22 17:25:22
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -943,8 +943,6 @@ http://39.164.223.174:7799/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=
 http://58.220.219.14:9901/tsfile/live/0120_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://61.157.139.15:9901/tsfile/live/2404_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://124.128.73.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
